@@ -1,0 +1,1 @@
+This is a list of all formal and informal terms commonly found in the goal-reasoning literature.
